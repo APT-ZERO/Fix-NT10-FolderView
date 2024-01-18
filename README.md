@@ -3,6 +3,8 @@ Fix Windows 10 / 11 Downloads and Music Folder View (Disable Grouping &amp; Sort
 
 This code will make them both like Documents Folder.
 
+This will also make windows to show all other windows folders like Documents folder, no matter what the folder contains (Except Pictures & Videos Folder)
+
 # Used Source & Tools
 
 01. https://answers.microsoft.com/en-us/windows/forum/all/completely-disable-file-grouping-always-everywhere/ac31a227-f585-4b0a-ab2e-a557828eaec5
