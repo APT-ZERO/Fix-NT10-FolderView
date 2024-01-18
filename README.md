@@ -1,9 +1,11 @@
 # Fix-NT10-FolderView
-Fix Windows 10 / 11 Downloads and Music Folder View (Disable Grouping &amp; Sort by Date)
+Fix Windows 10 / 11 Downloads and Music Folder View
 
-This code will make them both like Documents Folder.
+This code will make them both (+ All other folders) to be exactly like Documents Folder.
 
-This will also make windows to show all other windows folders like Documents folder, no matter what the folder contains (Except Pictures & Videos Folder)
+Except `C:\Users\<USERNAME>\Pictures` & `C:\Users\<USERNAME>\Videos`
+
+⚠️ This script will not check your privilege, make sure to use PowerRun with correct privilege.
 
 # Used Source & Tools
 
